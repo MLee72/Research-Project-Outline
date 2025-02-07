@@ -1,0 +1,13 @@
+Tentative Title: Development and Applications of Longitudinal Structured Mixture Item Response Theory Models for Measuring Differential Learning Progress in Targeted Knowledge Domains
+
+Abstract: Measuring individual growth and change is a central topic in educational research. 
+The measure of growth serves as an index for both students' progress and educators' contributions to student learning. 
+The current practice typically focuses on measuring growth at the subject level, such as mathematics. 
+This practice, however, does not help assess individual students’ domain-specific strengths and weaknesses and their changes over time. 
+Motivated by this concern, this dissertation project proposes an innovative statistical modeling approach for longitudinal item response data analysis, called a longitudinal structured mixture item response theory (L-SMIRT) model. 
+Specifically, the proposed model classifies respondents into unknown (or latent) groups within testing occasions, identifying their differential performance in different target domains between the groups over time, while measuring growth in the outcomes. 
+The assessment of differential performance is also used to formulate diagnostic information that indicates respondents’ strengths and weaknesses in target knowledge domains. 
+Therefore, the proposed approach will identify students who may be struggling in specific knowledge domains at each and across assessment points, assisting researchers and educators to formulate more specific and targeted feedback to help improve those students. 
+The proposed approach is estimated using a full-information maximum likelihood method via Mplus. 
+The usefulness of the proposed model is demonstrated using the two real data examples with the demonstration of its advantage over existing methods. 
+A large-scale simulation study is also conducted to evaluate the performance of the proposed approach.
