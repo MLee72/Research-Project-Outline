@@ -1,0 +1,11 @@
+Tentative Title: Two approaches for higher-order diagnostic classification models when attribute hierarchies exist: Theory, estimation, and application.
+
+Abstract:
+While diagnostic classification models (DCMs) have become popular for two decades,
+There has been a lack of research on the estimation of higher-order DCMs when attribute hierarchies exist.
+With attribute hierarchy and K attributes, impossible profile patterns occur from 2^K full profile patterns, whose probabilities are fixed at 0.
+In DCMs, the attributes are often highly correlated, so higher-order DCMs have proved their usefulness in summarizing the characteristics of attributes.
+Nevertheless, combining attribute hierarchy structures and higher-order models has not been fully studied, except for one study utilizing the item response tree approach via Bayesian estimation.
+This study introduces two approaches for dealing with attribute hierarchy under the framework of the higher-order DCM, which are 1) attribute response tree and 2) nominal response model approaches.
+The full-information maximum likelihood estimation via the EM algorithm and limited-information goodness-of-fit testing are developed by the authors.
+Simulation studies and empirical data applications will show the effectiveness of the two approaches.
