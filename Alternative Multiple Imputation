@@ -1,0 +1,12 @@
+Tentative Title: An Alternative Procedure of Multiple Imputation in Item Response Theory: A Stacking Approach
+
+Abstract: 
+While the full-information maximum likelihood (FIML) estimation is popular in current practices, FIML is not flexible (e.g., auxiliary variable and covariates) and not available for limited-information goodness-of-fit (LI-GOF) testing.
+Multiple imputation (MI) can handle such limitations of FIML by constructing a set of pseudo-complete datasets from Baysian models.
+However, the conventional procedure of MI turns out to produce high computational costs because many imputations are required and many respondents are included in many IRT practices.
+Numerical integrations in the popular EM-algorithm will exponentially increase this computational burden when multidimensional IRT models are used.
+To address this issue, this study proposes an alternative procedure of data analyses with multiple imputed data in IRT.
+The basic idea is to estimate a large dataset where individual pseudo-complete datasets are stacked instead of separately analyzing them, which is justified by Fisher's identity.
+Standard error computation is direct by utilizing missing information principle.
+LI-GOF testing is also available due to the works of Rubin and colleagues.
+The study shows the effectiveness of the proposed approach via a simulation study and empirical data analysis.
