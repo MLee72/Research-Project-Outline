@@ -1,0 +1,12 @@
+Tentative Title: Missing Data Treatment in IRT Limited-Information Goodness-of-Fit Testing
+
+Abstract:
+Limitied-information goodness-of-fit (LI-GOF) testing has proved to result in correct empirical rejection rates and high power by resolving the sparseness of item response data when many items are used.
+However, the theory has been developed under the assumption of complete item response data, even though missing item responses are almost inevitable in practice.
+There are two types of missing item responses.
+First, intended (or planned) missing item responses result from the assessment data collection design, such as matrix sampling and anchor item design in test equating.
+Second, unintended missing item responses can be produced by underlying missing data mechanisms (e.g., missing at random and missing not at random by Rubin).
+When missing item responses exist, LI-GOF testing suffers from the inability to deal with those missing item responses appropriately.
+This is firstly because low-order sample margins will be biased and secondly because the distribution of LI-GOF test statistics is not known when missing data exists.
+This study introduces how to treat those intended and unintended missing item responses.
+Simulation studies will be conducted to empirically show whether the introduced methods recover nominal rejection rates (when a model is correctly specified) and produce enough power to detect model misspecification.
